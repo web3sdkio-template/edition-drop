@@ -1,7 +1,7 @@
 import React from "react";
 
 export default function Web3sdkioGuideFooter() {
-  const url = "https://github.com/web3sdkio-example/edition-drop";
+  const url = "https://github.com/web3sdkio-template/edition-drop";
   return (
     <>
       <div

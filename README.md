@@ -1,11 +1,11 @@
 # Customizable Edition Drop Minting Page
 
-In this template, we build a page where users can claim NFTs from the [Edition Drop](https://portal.web3sdk.io/pre-built-contracts/edition-drop) contract.
+In this template, we build a page where users can claim NFTs from the [Edition Drop](https://docs.web3sdk.io/pre-built-contracts/edition-drop) contract.
 
 ## Tools
 
-- [**Edition Drop**](https://portal.web3sdk.io/pre-built-contracts/edition-drop): Create a collection of ERC-1155 NFTs and release them to users under [claim conditions](https://portal.web3sdk.io/pre-built-contracts/edition-drop#minting--claiming-nfts).
-- [**React SDK**](https://docs.web3sdk.io/react): to enable users to connect their wallets with the [useMetamask](https://portal.web3sdk.io/react/react.usemetamask) hook, and access hooks such as [useNFTDrop](https://portal.web3sdk.io/react/react.usenftdrop) to interact with the NFT drop contract.
+- [**Edition Drop**](https://docs.web3sdk.io/pre-built-contracts/edition-drop): Create a collection of ERC-1155 NFTs and release them to users under [claim conditions](https://docs.web3sdk.io/pre-built-contracts/edition-drop#minting--claiming-nfts).
+- [**React SDK**](https://docs.web3sdk.io/react): to enable users to connect their wallets with the [useMetamask](https://docs.web3sdk.io/react/react.usemetamask) hook, and access hooks such as [useNFTDrop](https://docs.web3sdk.io/react/react.usenftdrop) to interact with the NFT drop contract.
 - [**TypeScript SDK**](https://docs.web3sdk.io/typescript): to view the claimed supply, total supply, and mint NFTs from the drop.
 
 ## Using This Repo
@@ -22,7 +22,7 @@ npx web3sdkio create --template edition-drop
 
 Head to the [dashboard](https://web3sdk.io/dashboard) and create your own **Edition Drop** contract.
 
-You can learn how to do that with our guide [Release an NFT drop on your own site without writing any code](https://portal.web3sdk.io/guides/release-an-nft-drop-with-no-code#create-a-drop-contract).
+You can learn how to do that with our guide [Release an NFT drop on your own site without writing any code](https://docs.web3sdk.io/guides/release-an-nft-drop-with-no-code#create-a-drop-contract).
 
 Be sure to configure a **name**, **description**, and **image** for your NFT drop in the dashboard.
 
@@ -46,4 +46,4 @@ Replace the value of the `myEditionDropContractAddress` inside [`index.tsx`](/pa
 
 ## Join our Discord!
 
-For any questions, suggestions, join our Discord at [https://discord.gg/web3sdkio](https://discord.gg/web3sdkio).
+For any questions, suggestions, join our Discord at [https://discord.gg/n33UhsfUKB](https://discord.gg/n33UhsfUKB).
